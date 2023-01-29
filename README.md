@@ -5,7 +5,7 @@ First of all, this is the Figma design for the CV:
 https://www.figma.com/file/KBEgJnT3fqN5nTBN8ulPC7/CV-Figma---Valentin-Vasile-Goga?node-id=0%3A1&t=8Ky9YT6u8o1A6LhX-1
 
 
-Second, in order to use some icons I used (I don't know if it's a framework or not) font awesome, link:
+Second, in order to use some icons I used (I don't know if it's a framework or not) font awesome, link: https://cdnjs.com/libraries/font-awesome and
 https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/fontawesome.min.css
 
 Adding: 
