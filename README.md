@@ -1,4 +1,9 @@
 # CV---Valentin-Vasile-Goga
+
+Link to the Github Pages CV: https://valen2468.github.io./
+
+
+
 CV Made using HTML and CSS.
 
 First of all, this is the Figma design for the CV:
